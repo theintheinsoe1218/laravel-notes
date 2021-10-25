@@ -1,0 +1,12 @@
+git init => add .git repo in my project folder
+git status => show modified files in working directory
+git add . => add files 
+git commit -m "commit-name"=>name for added files
+git log --oneline => look for commited files in one line
+git branch branch-name =>create new branch
+git checkout branch-name => go to branch
+git checkout -D branch-name => delete branch
+git checkout -b branch-name => create and open branch
+git clone [url] => download from github repo
+git push -u origin master => my project push to github repo
+
