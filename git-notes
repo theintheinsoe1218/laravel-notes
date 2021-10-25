@@ -9,4 +9,4 @@ git checkout -D branch-name => delete branch
 git checkout -b branch-name => create and open branch
 git clone [url] => download from github repo
 git push -u origin master => my project push to github repo
-
+git branch -a => show branches
